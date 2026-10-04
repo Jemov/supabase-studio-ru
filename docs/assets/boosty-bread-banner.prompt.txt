@@ -1,0 +1,9 @@
+Use case: ads-marketing.
+Asset type: wide custom support banner for the README of Jemov's public Supabase Studio Russian translation repository, also reusable in a Boosty announcement. Make a polished horizontal bitmap banner, aspect ratio 3:1, ideally 1536x512.
+Input images: both supplied images are character and visual-style references, not edit targets. Keep the recognizable cute round golden bread mascot from those references: realistic crispy scored bread crust, glossy big dark eyes, small joyful mouth, little bread paws, the same warm friendly personality.
+Composition: mascot on the left about 38% of the banner, fully visible with room around its face; right side about 62% is a clean cream-colored gently glowing area with very legible dark toasted-brown typography and a restrained warm Boosty-orange accent. The background borrows the references' sunset glow and subtly voxel-like grassy platform, fading smoothly into the uncluttered text area.
+Text, EXACTLY, with correct Cyrillic spelling and no other copy:
+"Поддержать на Boosty"
+"На муку и дрожжи"
+"boosty.to/jemov"
+The first line is the clear main call-to-action in large bold modern rounded sans-serif, the second is smaller, the URL is readable below. The text must remain easily readable when the image is displayed at 680px wide in GitHub. Keep the character realistic and charming, professional coherent composition, no UI screenshots, no extra characters, no watermark, no fake interface buttons, no frames or circular white border.
