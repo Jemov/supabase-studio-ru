@@ -1,0 +1,14 @@
+*
+!Dockerfile
+!manifest.json
+!patches/
+!patches/**
+!scripts/
+!scripts/**
+!translations/
+!translations/**
+!LICENSE
+!NOTICE
+!THIRD_PARTY_NOTICES.md
+!licenses/
+!licenses/**

@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "language": "ru",
+  "upstreamRepository": "https://github.com/supabase/supabase.git",
+  "upstreamCommit": "79964102d369991a3b3adda27dc1f528c3a77457",
+  "studioVersion": "2026.09.07-sha-7996410",
+  "patch": "patches/studio-ru.patch",
+  "patchFiles": 2762,
+  "sourceHash": "e5aa8ff1bfe4d53fdec41206885fcb16268c9ddd6c80927d0246371eac6ff07a",
+  "monacoAmdSha256": "a300925a019cf9cf8520f9532dca90e90770cad13a20b419c1ace915d82720de",
+  "files": {
+    "patches/studio-ru.patch": "0ecf90d6e2cac57b4af550b10b15dc92e7454a713d0f4e5e2b2c8bb534069d06",
+    "patches/dependency-locales.json": "b2857352569700d48f58c3642ed6dd995fbe978ad9c3438f5e3d84c398aae01c",
+    "LICENSE": "c29468abcd629e248c2f76848155c386b733872bcabcc4cf65ef1e7c61431042",
+    "licenses/@graphiql_plugin-doc-explorer-LICENSE.txt": "4b18fbe55c4e8f9169cb702be138f4d858a2dad920c39857204ffdc9c1c9fdc4",
+    "licenses/@graphiql_plugin-history-LICENSE.txt": "4b18fbe55c4e8f9169cb702be138f4d858a2dad920c39857204ffdc9c1c9fdc4",
+    "licenses/@graphiql_react-LICENSE.txt": "4b18fbe55c4e8f9169cb702be138f4d858a2dad920c39857204ffdc9c1c9fdc4",
+    "licenses/graphiql-LICENSE.txt": "4b18fbe55c4e8f9169cb702be138f4d858a2dad920c39857204ffdc9c1c9fdc4",
+    "licenses/monaco-editor-LICENSE.txt": "33e4ff1a06ef62ba21788ea162564ee8165269a24a9ce6ef301837447eab0ac6",
+    "licenses/sonner-LICENSE.txt": "da9201378c36ffd81f51ad0b305f3f0981e90bc558789210ad65d1161eec3b7d",
+    "licenses/streamdown-LICENSE.txt": "b4f9adb7c568904834d0dd6cc98d16c390d21ca32fc17ae7a267715269bd5529",
+    "translations/ru-monaco-complete-supplement.json": "513f588cb9d6dc02c625d7741d8a313b2e481538880362ddbf7eb557af66d077",
+    "translations/ru-monaco-official.json": "000d10ac10b0257407f8f46d2381a28e09c29034224c415c2d82f4f904193db8",
+    "translations/ru.json": "f017700c573fa4d00b51601a0f670a9efc59851ab2e695e5b95c04f8c8e28ee4"
+  }
+}

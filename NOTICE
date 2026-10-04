@@ -1,0 +1,15 @@
+Supabase Studio Russian translation
+Copyright 2026 Jemov
+
+This project contains modifications to Supabase Studio and its shared UI
+packages, originally published by Supabase under the Apache License 2.0.
+The full source patch identifies the original and modified source files.
+Russian translation, display helpers, Cyrillic font configuration and build
+scripts were added or modified in 2026.
+
+This is an independent community translation, not an official Supabase release.
+Supabase and other product names belong to their respective owners.
+
+The Monaco Editor Russian language catalog and GraphiQL, Sonner and Streamdown
+dependency translation overlays retain their upstream MIT licensing.
+See THIRD_PARTY_NOTICES.md and licenses/ for the applicable notices.

@@ -1,0 +1,10 @@
+upstream/
+build/
+out/
+node_modules/
+.env
+.env.*
+!.env.example
+.private/
+*.log
+credentials*

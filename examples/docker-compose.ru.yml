@@ -1,0 +1,5 @@
+# Merge this override with your existing Supabase docker-compose.yml.
+# Build or load this image on the same host before starting Studio.
+services:
+  studio:
+    image: supabase-studio-ru:7996410
